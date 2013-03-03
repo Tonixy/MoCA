@@ -18,7 +18,8 @@ public class MoCA {
 		String[] copyrights = {
 				"*****************************************************************",
 				"  日本語形態素解析器 MoCA(もか)",
-				"    cafe.moca.jp@gmail.com",
+				"    https://github.com/Tonixy/MoCA",
+				"    tony.tonixy@gmail.com",
 				"",
 				"  MoCA は、日本語形態素解析器 Kuromoji を基に開発されています。",
 				"    http://atilika.org/",
