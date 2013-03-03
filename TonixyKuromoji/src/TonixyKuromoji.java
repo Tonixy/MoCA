@@ -5,8 +5,8 @@ import org.atilika.kuromoji.Token;
 import org.atilika.kuromoji.Tokenizer;
 import org.atilika.kuromoji.Tokenizer.Mode;
 
-import tony.tonixy.util.InputMain;
-import tony.tonixy.util.PrintIntegerMaker;
+import jp.ac.waseda.info.kake.system.InputMain;
+import jp.ac.waseda.info.kake.system.PrintIntegerMaker;
 
 public class TonixyKuromoji {
 

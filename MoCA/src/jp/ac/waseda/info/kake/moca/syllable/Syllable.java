@@ -2,7 +2,7 @@ package jp.ac.waseda.info.kake.moca.syllable;
 
 import java.util.ArrayList;
 
-import jp.ac.waseda.info.kake.moca.string.KanaConverter;
+import jp.ac.waseda.info.kake.string.KanaConverter;
 
 /**
  * 音節です。

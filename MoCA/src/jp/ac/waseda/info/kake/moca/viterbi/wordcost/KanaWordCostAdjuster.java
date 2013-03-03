@@ -1,6 +1,6 @@
 package jp.ac.waseda.info.kake.moca.viterbi.wordcost;
 
-import jp.ac.waseda.info.kake.moca.string.KanaConverter;
+import jp.ac.waseda.info.kake.string.KanaConverter;
 
 /**
  * 含まれる文字の種類を用いた単語コスト調整器です。読みによる単語検索によって得られた単語に適用されます。

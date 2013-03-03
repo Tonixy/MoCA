@@ -3,8 +3,8 @@ package jp.ac.waseda.info.kake.moca.syllable;
 import java.io.IOException;
 import java.util.ArrayList;
 
-import jp.ac.waseda.info.kake.moca.system.InputMain;
-import jp.ac.waseda.info.kake.moca.system.PrintIntegerMaker;
+import jp.ac.waseda.info.kake.system.InputMain;
+import jp.ac.waseda.info.kake.system.PrintIntegerMaker;
 
 /**
  * 音節をまとめて管理します。

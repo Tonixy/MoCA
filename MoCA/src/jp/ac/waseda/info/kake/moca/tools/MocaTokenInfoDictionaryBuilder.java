@@ -33,7 +33,7 @@ import org.atilika.kuromoji.dict.TokenInfoDictionary;
 import org.atilika.kuromoji.util.CSVUtil;
 import org.atilika.kuromoji.util.DictionaryBuilder.DictionaryFormat;
 
-import jp.ac.waseda.info.kake.moca.string.StringSizeConverter;
+import jp.ac.waseda.info.kake.string.StringSizeConverter;
 
 /**
  * TODO UniDicで辞書作成を試す

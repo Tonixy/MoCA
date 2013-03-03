@@ -2,8 +2,6 @@ package jp.ac.waseda.info.kake.moca.viterbi;
 
 import jp.ac.waseda.info.kake.moca.MocaTokenizer;
 import jp.ac.waseda.info.kake.moca.MocaTokenizer.MocaMode;
-import jp.ac.waseda.info.kake.moca.string.KanaConverter;
-import jp.ac.waseda.info.kake.moca.string.StringSizeConverter;
 import jp.ac.waseda.info.kake.moca.syllable.SyllabifiedString;
 import jp.ac.waseda.info.kake.moca.syllable.Syllable;
 import jp.ac.waseda.info.kake.moca.viterbi.wordcost.AbstractWordCostAdjuster;
@@ -12,6 +10,8 @@ import jp.ac.waseda.info.kake.moca.viterbi.wordcost.LevenshteinWordCostAdjuster;
 import jp.ac.waseda.info.kake.moca.viterbi.wordcost.BaseWordCostAdjuster;
 import jp.ac.waseda.info.kake.moca.viterbi.wordcost.MultipliedWordCostAdjuster;
 import jp.ac.waseda.info.kake.moca.viterbi.wordcost.UnknownWordCostAdjuster;
+import jp.ac.waseda.info.kake.string.KanaConverter;
+import jp.ac.waseda.info.kake.string.StringSizeConverter;
 
 import org.atilika.kuromoji.dict.ConnectionCosts;
 import org.atilika.kuromoji.dict.TokenInfoDictionary;

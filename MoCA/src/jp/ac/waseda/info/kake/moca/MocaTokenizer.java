@@ -12,7 +12,7 @@ import org.atilika.kuromoji.Token;
 import org.atilika.kuromoji.Tokenizer;
 import org.atilika.kuromoji.dict.UserDictionary;
 
-import jp.ac.waseda.info.kake.moca.system.PrintIntegerMaker;
+import jp.ac.waseda.info.kake.system.PrintIntegerMaker;
 
 public class MocaTokenizer extends Tokenizer {
 

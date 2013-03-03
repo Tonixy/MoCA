@@ -1,6 +1,6 @@
 package jp.ac.waseda.info.kake.moca.viterbi.wordcost;
 
-import jp.ac.waseda.info.kake.moca.string.Levenshtein;
+import jp.ac.waseda.info.kake.string.Levenshtein;
 
 /**
  * レーベンシュタイン距離を用いた単語コスト調整器です。長音節最適化を行ったことで生成された単語に適用されます。

@@ -4,7 +4,7 @@ import java.io.IOException;
 
 import jp.ac.waseda.info.kake.moca.MocaTokenizer.MocaMode;
 
-import jp.ac.waseda.info.kake.moca.system.InputMain;
+import jp.ac.waseda.info.kake.system.InputMain;
 
 /**
  * MoCA - Morphological Colloquial speech Analyzer

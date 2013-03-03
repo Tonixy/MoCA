@@ -30,7 +30,7 @@ import org.atilika.kuromoji.dict.UserDictionary;
 import org.atilika.kuromoji.trie.DoubleArrayTrie;
 import org.atilika.kuromoji.viterbi.ViterbiNode.Type;
 
-import tony.tonixy.util.string.StringSizeConverter;
+import jp.ac.waseda.info.kake.string.StringSizeConverter;
 
 
 /**

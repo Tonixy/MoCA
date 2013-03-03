@@ -19,7 +19,7 @@ package org.atilika.kuromoji;
 import org.atilika.kuromoji.dict.Dictionary;
 import org.atilika.kuromoji.viterbi.ViterbiNode.Type;
 
-import tony.tonixy.util.string.KanaConverter;
+import jp.ac.waseda.info.kake.string.KanaConverter;
 
 /**
  * @author Masaru Hasegawa
