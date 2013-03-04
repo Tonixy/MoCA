@@ -21,7 +21,8 @@ public class MoCA {
 				"    https://github.com/Tonixy/MoCA",
 				"    tony.tonixy@gmail.com",
 				"",
-				"  MoCA は、日本語形態素解析器 Kuromoji を基に開発されています。",
+				"  MoCA は、日本語形態素解析器 Kuromoji のソースコードを",
+				"  利用して開発されています。",
 				"    http://atilika.org/",
 				"*****************************************************************",
 		};
